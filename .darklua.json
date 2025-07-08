@@ -15,7 +15,7 @@
                     "@Controllers": "src/client/Controllers/",
                     "@Components": "src/client/UI/Components/",
                     "@Hooks": "src/client/UI/Hooks/",
-                    "@Shared": "src/Shared/",
+                    "@Shared": "src/shared/",
                     "@Server": "src/server/",
                     "@Modules": "src/server/Modules/"
                 }
