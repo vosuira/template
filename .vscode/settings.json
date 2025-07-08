@@ -1,0 +1,17 @@
+{
+    "editor.formatOnSave": true,
+    "luau-lsp.completion.imports.enabled": true,
+    "luau-lsp.completion.imports.suggestServices": true,
+    "luau-lsp.completion.imports.suggestRequires": false,
+    "luau-lsp.require.mode": "relativeToFile",
+    "luau-lsp.require.directoryAliases": {
+        "@Packages": "Packages/",
+        "@Client": "src/client/",
+        "@Controllers": "src/client/Controllers/",
+        "@Components": "src/client/UI/Components/",
+        "@Hooks": "src/client/UI/Hooks/",
+        "@Shared": "src/shared/",
+        "@Server": "src/server/",
+        "@Modules": "src/server/Modules/"
+    }
+}
