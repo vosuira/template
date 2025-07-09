@@ -1,4 +1,4 @@
-local remo = require("@Packages/fusion")
+local remo = require("@Packages/remo")
 local t = require("@Packages/t")
 
 type Remotes = {
